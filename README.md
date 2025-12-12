@@ -28,7 +28,7 @@
 
 ### 1. Clone Repository
 ```bash
-git clone [https://github.com/AbelFortino/Pengembangan-Aplikasi-Web]
+git clone https://github.com/AbelFortino/Pengembangan-Aplikasi-Web
 cd product-review-analyzer
 ```
 
