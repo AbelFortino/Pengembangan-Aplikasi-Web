@@ -1,0 +1,11 @@
+pyramid
+waitress
+SQLAlchemy
+psycopg2-binary 
+pyramid_tm
+zope.sqlalchemy
+gunicorn 
+python-dotenv
+google-genai 
+transformers 
+scikit-learn 
